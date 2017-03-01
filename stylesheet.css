@@ -1,0 +1,39 @@
+
+#descr1, #descr2 {
+  color:lightskyblue;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-weight: bold !important;
+}
+p {
+    font-size: 125%;
+}
+p.pad-below {
+    padding-bottom: 50px;
+}
+
+textarea {
+background-color: #1C2F2F;
+
+
+}
+
+th, td {
+    padding: 25px;
+    text-align: left;
+    vertical-align: text-bottom;
+}
+
+#list {
+
+  list-style-type: upper-roman;
+  background: red;
+  padding:2px;
+}
+
+ul.nodot li {
+    list-style-type:none;
+}
+
